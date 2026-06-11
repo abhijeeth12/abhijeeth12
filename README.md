@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/Codeforces-Specialist%20%7C%201538-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
   <a href="https://leetcode.com/u/abhijeeth_1221/">
-    <img src="https://img.shields.io/badge/LeetCode-Knight%20%7C%201945-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-Knight%20%7C%202030-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </p>
 
