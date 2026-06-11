@@ -2,12 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:1F2937,50:2563EB,100:06B6D4&text=Abhijeeth%20Chandragi&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Competitive%20Programmer%20•%20Full-Stack%20Developer%20•%20ML%2FAI%20Builder&descSize=16&descAlignY=65" />
 </p>
 
-<h1 align="center">Hi, I'm Abhijeeth Chandragi 👋</h1>
-
-<p align="center">
-  Competitive Programmer • Full-Stack Developer • ML/AI Builder
-</p>
-
 ---
 
 ## 💫 About Me
