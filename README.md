@@ -1,118 +1,105 @@
 # Hi, I'm Abhijeeth 👋
 
-### Competitive Programmer • Software Engineer • AI Builder
+### Competitive Programmer • Full-Stack Developer • AI Builder
 
-🎓 CSE @ IIIT Nagpur (2023–2027)
-
-⚡ Passionate about building scalable backend systems, AI-powered applications, and solving algorithmic problems.
+🎓 CSE @ IIIT Nagpur (2023–2027) <br>
+💻 I like solving hard problems, building clean systems, and shipping useful products.
 
 ---
 
 ## 🏆 Competitive Programming
 
-* ⭐ **CodeChef:** 1869 (4★)
-* ⚔️ **Codeforces:** 1538 (Specialist)
-* 👑 **LeetCode:** 2030+
+- **CodeChef:** 1869 (4★)
+- **Codeforces:** 1538 (Specialist)
+- **LeetCode:** **2030+**
+- **Problems Solved:** 1100+
+- **Rated Contests:** 200+
+- **Peak CodeChef Div. 2 Rank:** 9
+- **IICPC Codefest 2026:** Global Rank 780
 
 ### Profiles
 
-[CodeChef](https://www.codechef.com/users/abhijeeth_1221) •
-[Codeforces](https://codeforces.com/profile/abhijeethchandragi) •
-[LeetCode](https://leetcode.com/u/abhijeeth_1221/) •
-[GitHub](https://github.com/abhijeeth12) •
-[LinkedIn](https://www.linkedin.com/in/abhijeeth-chandragi-5a97502a1)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/abhijeeth_1221)
+[![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/abhijeethchandragi)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/abhijeeth_1221/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhijeeth12)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijeeth-chandragi-5a97502a1)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Work
 
-### 📌 SmartBoard
+### SmartBoard — AI Kanban Task Manager
+Turns plain-English goals into actionable tasks on a live board.  
+**Tech:** Next.js • TypeScript • React • Supabase • Tailwind CSS • Framer Motion  
+🔗 [Live](https://smart-board-alpha.vercel.app) • [Code](https://github.com/abhijeeth12/smartboard)
 
-AI-powered Kanban task manager that converts natural language goals into actionable tasks.
+### TradeSync Engine
+Concurrent trade reconciliation system built for high throughput and consistency.  
+**Tech:** Java • PostgreSQL • JDBC • Javalin • Docker  
+🔗 [Code](https://github.com/abhijeeth12/TradeSync-Engine)
 
-**Tech:** Next.js • TypeScript • React • Supabase • Claude API
+### RAGraph — Hierarchical RAG
+Document retrieval system focused on speed, structure, and better search quality.  
+**Tech:** Python • FastAPI • React • Qdrant • REST APIs  
+🔗 [Live](https://ra-graph.vercel.app/) • [Code](https://github.com/abhijeeth12/RAGraph)
 
-🔗 https://smart-board-alpha.vercel.app
-
----
-
-### 📌 TradeSync Engine
-
-High-throughput concurrent trade reconciliation system handling 11,800+ events/sec.
-
-**Tech:** Java • PostgreSQL • JDBC • Docker • Concurrency
-
-🔗 https://github.com/abhijeeth12/TradeSync-Engine
-
----
-
-### 📌 RAGraph
-
-Hierarchical Retrieval-Augmented Generation system with improved retrieval precision and low-latency search.
-
-**Tech:** Python • FastAPI • React • Vector Search • RAG
-
-🔗 https://ra-graph.vercel.app
-
----
-
-### 📌 Zenvy
-
-Batch-based group ordering platform with real-time coordination.
-
-**Tech:** Node.js • Express • PostgreSQL • React
-
-🔗 https://zenvy-xi.vercel.app
+### Zenvy — Batch-Based Ordering System
+Multi-user ordering platform with real-time coordination and transactional behavior.  
+**Tech:** Node.js • Express.js • PostgreSQL • React • JWT  
+🔗 [Live](https://zenvy-xi.vercel.app/) • [Code](https://github.com/abhijeeth12/Zenvy)
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-
+**Languages**  
 C++ • Java • Python • TypeScript • JavaScript • SQL
 
-### Backend
+**Competitive Programming / CS Core**  
+DSA • OOP • DBMS • Operating Systems • Computer Networks
 
-Node.js • Express.js • FastAPI • REST APIs • PostgreSQL
+**Frontend**  
+React • Next.js • Tailwind CSS • Framer Motion
 
-### Frontend
+**Backend**  
+Node.js • Express.js • FastAPI • Javalin • REST APIs
 
-React • Next.js • Tailwind CSS
+**Databases**  
+PostgreSQL • MySQL • MongoDB
 
-### AI / ML
+**AI / ML**  
+PyTorch • scikit-learn • LangChain • RAG • FAISS • CrewAI • Sentence Transformers
 
-LLMs • RAG • LangChain • Vector Search • PyTorch • Scikit-Learn
+**Systems & Cloud**  
+Docker • Linux • Git • GitHub • AWS • Supabase • Vercel
 
-### Systems
+---
 
-Concurrency • Multithreading • Linux • Docker
+## 🎯 What I work on
 
-### Tools
-
-Git • GitHub • AWS • Supabase • Vercel
+- solving algorithmic problems
+- building full-stack web apps
+- backend systems and concurrency
+- AI-powered tools and RAG apps
 
 ---
 
 ## 🏅 Highlights
 
-* Amazon ML Summer School 2025 (Top 5%)
-* HackIndia 2025 Regional Top 12
-* Core Member, DotSlash Competitive Programming Club
-* Mentored juniors in DSA & Competitive Programming
+- Amazon ML Summer School 2025 — Top 5%
+- HackIndia 2025 — Top 12 regionally
+- Core Member, Dotslash Competitive Programming Club, IIIT Nagpur
+- Organized CodeFiesta 2025 and mentored juniors in DSA
 
 ---
 
-## 📫 Connect
+## 📫 Contact
 
-📧 [abhijeethchandragi@gmail.com](mailto:abhijeethchandragi@gmail.com)
-
-💼 LinkedIn:
-https://www.linkedin.com/in/abhijeeth-chandragi-5a97502a1
-
-🌐 GitHub:
-https://github.com/abhijeeth12
+- **Email:** abhijeethchandragi@gmail.com
+- **LinkedIn:** [abhijeeth-chandragi-5a97502a1](https://www.linkedin.com/in/abhijeeth-chandragi-5a97502a1)
+- **GitHub:** [abhijeeth12](https://github.com/abhijeeth12)
 
 ---
 
-> "It was never about whether I could do it. It was about whether I wanted it enough."
+> It was never about whether I could do it. It was always about whether I wanted to.
