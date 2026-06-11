@@ -103,39 +103,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-- **SmartBoard — AI Kanban Task Manager**  
-  AI-powered full-stack task manager with Next.js, Supabase, and Claude-based task generation.
-
-- **Concurrent Trade Reconciliation Engine**  
-  Multi-threaded Java system with queue-based ingestion, scheduled reconciliation, and PostgreSQL persistence.
-
-- **Flight Delay Prediction Pipeline**  
-  Distributed PySpark pipeline for large-scale ETL and ML on 1.4M+ records with AWS S3 and Parquet.
-
-- **Zenvy — Batch-Based Ordering System**  
-  Real-time ordering platform with Node.js, PostgreSQL, JWT auth, and live multi-user coordination.
-
-- **RAGraph — Hierarchical RAG**  
-  Retrieval system with heading-aware document parsing, vector search, and React-based query interface.
-
-- **Academic Research Assistant**  
-  Document search and summarization tool using semantic search, PDF extraction, and Llama3 via Ollama.
-
----
-
-## 🎯 Focus Areas
-
-- Competitive Programming and problem solving
-- Full-stack web development
-- Backend systems and API design
-- Machine Learning and Deep Learning
-- LLM applications and RAG pipelines
-- Scalable, production-ready software
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
