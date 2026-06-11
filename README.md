@@ -13,7 +13,6 @@
 - 🚀 Built projects across **Full-Stack Development, NLP, Computer Vision, LLMs, and Distributed Systems**
 - 📚 Currently learning **AWS, System Design, and Production-Grade Backend Development**
 - 🤝 Open to collaborating on **impactful software and AI projects**
-- ⚡ *It was never about whether I could. It was always about whether I wanted to.*
 
 ---
 
