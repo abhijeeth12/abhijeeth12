@@ -13,9 +13,6 @@
 * ⭐ **CodeChef:** 1869 (4★)
 * ⚔️ **Codeforces:** 1538 (Specialist)
 * 👑 **LeetCode:** 2030+
-* 💻 **1100+ Problems Solved**
-* 🏅 Peak CodeChef Div-2 Rank: **9**
-* 🌍 IICPC Codefest 2026 Global Rank **780**
 
 ### Profiles
 
