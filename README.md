@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:1F2937,50:2563EB,100:06B6D4&text=Abhijeeth%20Chandragi&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Competitive%20Programmer%20•%20Full-Stack%20Developer%20•%20ML%2FAI%20Builder&descSize=16&descAlignY=65" />
+</p>
+
 <h1 align="center">Hi, I'm Abhijeeth Chandragi 👋</h1>
 
 <p align="center">
@@ -13,6 +17,7 @@
 - 🚀 Built projects across **Full-Stack Development, NLP, Computer Vision, LLMs, and Distributed Systems**
 - 📚 Currently learning **AWS, System Design, and Production-Grade Backend Development**
 - 🤝 Open to collaborating on **impactful software and AI projects**
+- ⚡ *It was never about whether I could. It was always about whether I wanted to.*
 
 ---
 
@@ -20,13 +25,13 @@
 
 <p align="center">
   <a href="https://www.codechef.com/users/abhijeeth_1221">
-    <img src="https://img.shields.io/badge/CodeChef-1869%20%7C%204★-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+    <img src="https://img.shields.io/badge/CodeChef-1869%20%7C%204★-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
   <a href="https://codeforces.com/profile/abhijeethchandragi">
-    <img src="https://img.shields.io/badge/Codeforces-Specialist%20%7C%201538-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+    <img src="https://img.shields.io/badge/Codeforces-Specialist%20%7C%201538-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
   <a href="https://leetcode.com/u/abhijeeth_1221/">
-    <img src="https://img.shields.io/badge/LeetCode-Knight%20%7C%201945-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-Knight%20%7C%201945-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </p>
 
@@ -36,10 +41,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhijeeth-chandragi-5a97502a1/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/abhijeeth12">
-    <img src="https://img.shields.io/badge/GitHub-abhijeeth12-%23121011?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-abhijeeth12-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -53,14 +58,6 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Competitive Programming & Core CS
-![Data Structures](https://img.shields.io/badge/Data%20Structures-1E293B?style=for-the-badge)
-![Algorithms](https://img.shields.io/badge/Algorithms-1E293B?style=for-the-badge)
-![OOP](https://img.shields.io/badge/OOP-1E293B?style=for-the-badge)
-![DBMS](https://img.shields.io/badge/DBMS-1E293B?style=for-the-badge)
-![Operating Systems](https://img.shields.io/badge/Operating%20Systems-1E293B?style=for-the-badge)
-![Computer Networks](https://img.shields.io/badge/Computer%20Networks-1E293B?style=for-the-badge)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -79,6 +76,9 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-1E293B?style=for-the-badge)
 ![LLMs](https://img.shields.io/badge/LLMs-1E293B?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-1E293B?style=for-the-badge)
@@ -93,6 +93,14 @@
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Core CS
+![Data Structures](https://img.shields.io/badge/Data%20Structures-1E293B?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-1E293B?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-1E293B?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-1E293B?style=for-the-badge)
+![Operating Systems](https://img.shields.io/badge/Operating%20Systems-1E293B?style=for-the-badge)
+![Computer Networks](https://img.shields.io/badge/Computer%20Networks-1E293B?style=for-the-badge)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
