@@ -1,18 +1,121 @@
-# 💫 About Me:
-🎓 Data Science Undergraduate @ IIIT Nagpur<br><br>💻 Competitive Programmer with a strong interest in Software Development, Machine Learning, and Cloud Technologies<br><br>⭐ CodeChef 4★ (Max Rating: 1830)<br>⭐ Codeforces Specialist<br><br>🚀 Built projects in Full-Stack Development, NLP, Computer Vision, and LLM-powered Document Analysis<br><br>📚 Currently learning AWS, Production-Grade System Design, and Scalable Backend Development<br><br>🔍 Interested in Machine Learning, Deep Learning, Distributed Systems, and Real-World Problem Solving<br><br>🤝 Open to collaborating on impactful software and AI projects<br><br>⚡ It was never about whether I could. It was always about whether I wanted to.
+# Hi, I'm Abhijeeth 👋
 
+### Competitive Programmer • Software Engineer • AI Builder
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhijeeth-chandragi-5a97502a1/) 
+🎓 CSE @ IIIT Nagpur (2023–2027)
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=abhijeeth12&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=abhijeeth12&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=abhijeeth12&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+⚡ Passionate about building scalable backend systems, AI-powered applications, and solving algorithmic problems.
 
 ---
-[![](https://komarev.com/ghpvc/?username=abhijeeth12&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🏆 Competitive Programming
+
+* ⭐ **CodeChef:** 1869 (4★)
+* ⚔️ **Codeforces:** 1538 (Specialist)
+* 👑 **LeetCode:** 2030+
+* 💻 **1100+ Problems Solved**
+* 🏅 Peak CodeChef Div-2 Rank: **9**
+* 🌍 IICPC Codefest 2026 Global Rank **780**
+
+### Profiles
+
+[CodeChef](https://www.codechef.com/users/abhijeeth_1221) •
+[Codeforces](https://codeforces.com/profile/abhijeethchandragi) •
+[LeetCode](https://leetcode.com/u/abhijeeth_1221/) •
+[GitHub](https://github.com/abhijeeth12) •
+[LinkedIn](https://www.linkedin.com/in/abhijeeth-chandragi-5a97502a1)
+
+---
+
+## 🚀 Featured Projects
+
+### 📌 SmartBoard
+
+AI-powered Kanban task manager that converts natural language goals into actionable tasks.
+
+**Tech:** Next.js • TypeScript • React • Supabase • Claude API
+
+🔗 https://smart-board-alpha.vercel.app
+
+---
+
+### 📌 TradeSync Engine
+
+High-throughput concurrent trade reconciliation system handling 11,800+ events/sec.
+
+**Tech:** Java • PostgreSQL • JDBC • Docker • Concurrency
+
+🔗 https://github.com/abhijeeth12/TradeSync-Engine
+
+---
+
+### 📌 RAGraph
+
+Hierarchical Retrieval-Augmented Generation system with improved retrieval precision and low-latency search.
+
+**Tech:** Python • FastAPI • React • Vector Search • RAG
+
+🔗 https://ra-graph.vercel.app
+
+---
+
+### 📌 Zenvy
+
+Batch-based group ordering platform with real-time coordination.
+
+**Tech:** Node.js • Express • PostgreSQL • React
+
+🔗 https://zenvy-xi.vercel.app
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+C++ • Java • Python • TypeScript • JavaScript • SQL
+
+### Backend
+
+Node.js • Express.js • FastAPI • REST APIs • PostgreSQL
+
+### Frontend
+
+React • Next.js • Tailwind CSS
+
+### AI / ML
+
+LLMs • RAG • LangChain • Vector Search • PyTorch • Scikit-Learn
+
+### Systems
+
+Concurrency • Multithreading • Linux • Docker
+
+### Tools
+
+Git • GitHub • AWS • Supabase • Vercel
+
+---
+
+## 🏅 Highlights
+
+* Amazon ML Summer School 2025 (Top 5%)
+* HackIndia 2025 Regional Top 12
+* Core Member, DotSlash Competitive Programming Club
+* Mentored juniors in DSA & Competitive Programming
+
+---
+
+## 📫 Connect
+
+📧 [abhijeethchandragi@gmail.com](mailto:abhijeethchandragi@gmail.com)
+
+💼 LinkedIn:
+https://www.linkedin.com/in/abhijeeth-chandragi-5a97502a1
+
+🌐 GitHub:
+https://github.com/abhijeeth12
+
+---
+
+> "It was never about whether I could do it. It was about whether I wanted it enough."
